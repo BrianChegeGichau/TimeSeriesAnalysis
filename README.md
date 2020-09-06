@@ -5,3 +5,8 @@ A Kenyan entrepreneur has created an online cryptography course and would want t
 
 
 I am tasked to do univariate and bivariate analysis using the R language to best advise her marketing startegy.
+----
+## Technologies used
+*  R language
+*  GGplot2
+*  GGcorrplot
